@@ -28,5 +28,6 @@ display: flex;
 }
 
 .green {
+    background-color: rgb(82, 165, 0);
     padding-bottom: 80px;
 }
